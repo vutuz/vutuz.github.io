@@ -1,0 +1,30 @@
+safe: false
+
+# build settings
+markdown: kramdown
+highlighter: rouge
+lsi: false
+permalink: /:title
+
+title: "VuTUZ"
+description: "Mình thích thì mình viết thôi!!"
+baseurl: "/vutuz"
+url: "https://vutuz.github.io/vutuz" # replace by your site's url
+twitter_username: vutuz
+github_username:  vutuz # (your name)
+accent: "#f7f7e6" # accent color for blog column
+
+author: "VuTUZ"
+address: "Ha Noi, Viet Nam"
+email: "vutuzvn@email.com"
+
+# google analytics tracking code, please change the value
+g_analytics: ""
+
+# language settings
+isolang: en
+
+# exclude files
+exclude:
+  - LICENSE
+  - README.md
