@@ -8,8 +8,8 @@ permalink: /:title
 
 title: "VuTUZ"
 description: "Mình thích thì mình viết thôi!!"
-baseurl: "/vutuz"
-url: "https://vutuz.github.io/vutuz" # replace by your site's url
+baseurl: ""
+url: "https://vutuz.github.io" # replace by your site's url
 twitter_username: vutuz
 github_username:  vutuz # (your name)
 accent: "#f7f7e6" # accent color for blog column
