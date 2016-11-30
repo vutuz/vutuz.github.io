@@ -8,7 +8,7 @@ permalink: /:title
 
 title: "VuTUZ"
 description: "Mình thích thì mình viết thôi!!"
-baseurl: ""
+baseurl: "https://vutuz.github.io"
 url: "https://vutuz.github.io" # replace by your site's url
 twitter_username: vutuz
 github_username:  vutuz # (your name)
